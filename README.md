@@ -1,2 +1,2 @@
-# switch-minigames
-A Privacy Policy Of Switch Minigames
+# Switch-Minigames-Websites
+The Official Websites of Switch Minigames
