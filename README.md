@@ -1,2 +1,2 @@
-# Switch-Minigames-Websites
+# Switch-Minigames
 The Official Websites of Switch Minigames
